@@ -1,0 +1,1 @@
+{"title": "String concatenation","tu": "ns","benchmarks": [{"name":"String Append", "result":160.66},{"name":"String Reserve +=", "result":218.93},{"name":"String +=", "result":278.85},{"name":"StringStream", "result":612.14}]}
